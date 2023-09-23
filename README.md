@@ -56,4 +56,3 @@ Most projects in this repository are open source and subject to their respective
 
 ---
 
-Feel free to customize this README to fit the specific details and structure of your repository. You can add more sections or modify existing ones as needed.
