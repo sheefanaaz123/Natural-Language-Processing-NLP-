@@ -19,7 +19,8 @@ The project aims to develop a Natural Language Processing (NLP) solution for cat
 ## Outcome 
 The project seeks to provide a robust and accurate solution for automatically categorizing customer grievances based on textual descriptions. This automated categorization can help organizations streamline their grievance handling processes, allocate resources efficiently, and enhance customer satisfaction by ensuring that grievances are directed to the appropriate teams for resolution. The use of machine learning and ensemble techniques allows for a more efficient and objective handling of customer grievances. 
 ## Results
-### Category Prediction
-Results: - Achieved the highest accuracy of 62.42% using the Voting Classifier model. 
-### Sub-Category Prediction Results: - Achieved the highest accuracy of 37.58% through the combined efforts of the Voting Classifier and SVM Linear models. 
+### Category Prediction Results: 
+- Achieved the highest accuracy of 62.42% using the Voting Classifier model. 
+### Sub-Category Prediction Results:
+- Achieved the highest accuracy of 37.58% through the combined efforts of the Voting Classifier and SVM Linear models. 
 --- *Note: This README provides an overview of the Text Categorization project. For detailed implementation and code, refer to the project files and documentation.*
