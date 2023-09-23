@@ -24,4 +24,4 @@ The project seeks to provide a robust and accurate solution for automatically ca
 ### Sub-Category Prediction Results:
 - Achieved the highest accuracy of 37.58% through the combined efforts of the Voting Classifier and SVM Linear models.
   
---- *Note: This README provides an overview of the Text Categorization project. For detailed implementation and code, refer to the project files and documentation.*
+--- *Note: This README provides an overview of the Text Categorization project. For detailed implementation and code, refer to the project files.*
